@@ -5,6 +5,7 @@ export const Wrapper = styled.div`
   width: 100%;
   justify-content: space-between;
   padding: 4px;
+  text-color: #ffff;
 
   input {
     border: 1px solid #ccc;
@@ -16,10 +17,11 @@ export const Wrapper = styled.div`
   }
 
   button {
-    background-color: #225ed8;
+    background-color: #b022d8;
     padding: 8px 16px;
     margin: 0 16px;
     border-radius: 8px;
+    color: #ffff;
 
     &:hover {
       background-color: #2c5282;

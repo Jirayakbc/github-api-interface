@@ -29,3 +29,7 @@ export const WrapperLink = styled.a`
   margin: 8px 0;
   color: #3182ce;
 `;
+
+export const WrapperIco = styled.img`
+
+`;
